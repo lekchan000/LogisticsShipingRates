@@ -1,5 +1,3 @@
-# Here is another update by <lekchan000>
-
 # Here is a new update by <lekchan000>
 
 # Shipping Cost Calculator
